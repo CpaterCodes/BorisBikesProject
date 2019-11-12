@@ -24,3 +24,7 @@ Error File Path: /Users/charlespaterson/.rvm/rubies/ruby-2.6.3/bin/irb
 Error Line Number: 23
 Error Meaning: Variation on a NameError, specifically when class/module not found
 Solution: Define the class
+
+###Challenge 5:
+
+Error after first test is run, is due to the fact that there is no lib file, and no DockingStation file or object within that, so it's uninitialized.
