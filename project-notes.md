@@ -33,4 +33,9 @@ We have created and confirmed the existence of a DockingStation class
 ###Challenge 7:
 
 No error on first defined variable because we now have a DockingStation class.
-An error on calling the release_bike method on the docking_station instance because we haven't yet defined the release_bike method. 
+An error on calling the release_bike method on the docking_station instance because we haven't yet defined the release_bike method.
+
+###Challenge 8:
+
+Added release_bike method and passed test (when testing classes, always
+invoke an Instance.new of said class rather than the class itself)
