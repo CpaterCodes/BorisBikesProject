@@ -25,6 +25,7 @@ Error Line Number: 23
 Error Meaning: Variation on a NameError, specifically when class/module not found
 Solution: Define the class
 
-###Challenge 5:
+###Challenge 6;
 
-Error after first test is run, is due to the fact that there is no lib file, and no DockingStation file or object within that, so it's uninitialized.
+'0 examples, 0 failures'
+We have created and confirmed the existence of a DockingStation class
