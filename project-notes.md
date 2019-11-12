@@ -29,3 +29,8 @@ Solution: Define the class
 
 '0 examples, 0 failures'
 We have created and confirmed the existence of a DockingStation class
+
+###Challenge 7:
+
+No error on first defined variable because we now have a DockingStation class.
+An error on calling the release_bike method on the docking_station instance because we haven't yet defined the release_bike method. 
