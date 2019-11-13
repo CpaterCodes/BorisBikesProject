@@ -39,3 +39,7 @@ An error on calling the release_bike method on the docking_station instance beca
 
 Added release_bike method and passed test (when testing classes, always
 invoke an Instance.new of said class rather than the class itself)
+
+###Challenge 10:
+
+To test if a method creates an instance of a class, test if an execution of said method is an instance of that class, not if it equals instance.new
